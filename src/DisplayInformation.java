@@ -1,5 +1,5 @@
 class Information{
-    void display(String name){
+    void display(String name) {
         System.out.println("Name :"+name);
     }
     void display(String name,int age){

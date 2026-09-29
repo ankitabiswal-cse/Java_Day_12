@@ -1,5 +1,5 @@
 class Area{
-    int calculate(int side){
+    int calculate(int side) {
         return side*side;
     }
 int calculate(int length,int breadth){

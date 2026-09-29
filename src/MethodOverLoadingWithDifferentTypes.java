@@ -1,5 +1,5 @@
 class Printer{
-    void print(int number){
+    void print(int number) {
         System.out.println("Integer :"+number);
     }
     void print(double number){
